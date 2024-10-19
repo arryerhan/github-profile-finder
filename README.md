@@ -8,6 +8,11 @@ This is an open-source tool that allows users to search for GitHub profiles by e
 - Classified Design Components: Organized interface elements for clarity.
 - Simple User Interface: Intuitive controls for easy navigation.
 
+# Technologies i used
+- Html
+- Css
+- Java Script
+
 Screenshot is below
 
 ![screen](https://github.com/user-attachments/assets/80f9adf3-b3ba-4880-a8aa-5a5d48ffea04)
